@@ -10,7 +10,7 @@
 | :--- | :--- |
 | **Ali Cihan Ozdemir** | Lead Developer & Presenter |
 | **Lohith Reddy Danda** | Co-Developer & Presenter |
-| **Roshan Bartaul** | Co-Developer & Presenter |
+| **Roshan Bartaul** | *(Did not contribute - no attendance)* |
 
 **Instructor:** Professor David
 
