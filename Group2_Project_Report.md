@@ -58,6 +58,7 @@ As part of the course requirements, this project was reviewed by Group 5.
 | :--- | :--- |
 | Preeja Anilal | 8791796 |
 | Anthony Nosa Izevbokun | 9016626 |
+| Minh Thuan | 8730956 |
 
 ### Group 5 Repository
 
